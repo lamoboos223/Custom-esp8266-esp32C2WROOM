@@ -7,4 +7,4 @@
 ## ESP8266
 
 
-![](./esp8266-12f/esp8266 pcb.png)
+![](./esp8266-12f/esp8266-pcb.png)
